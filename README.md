@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.gstatic.com/bricks/image/bb64055b-9705-4bfa-a040-d75046a6f36c.gif" width="300" height="225" alt="Built at Build with Gemini HYD">
+</p>
+
 # Hyderabad Food Trail Guide
 
 An AI-powered culinary guide built with the Google Agent Development Kit (ADK) and Gemini 3.8 Flash, specialized in exploring the authentic food culture of Hyderabad across legendary neighborhoods like Old City, Banjara Hills, Gachibowli, and Ameerpet.
